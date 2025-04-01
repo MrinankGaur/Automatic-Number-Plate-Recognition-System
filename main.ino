@@ -26,12 +26,12 @@ WebServer server(80);
 
 
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &I2Cbus, OLED_RESET);
-const char* ssid = "Mrinank's Phone";       
-const char* password = "nhibataunga";    
+const char* ssid = "*******";       
+const char* password = "********";    
 String serverName = "www.circuitdigest.cloud";  
 String serverPath = "/readnumberplate";              
 const int serverPort = 443;                    
-String apiKey = "qbiCyALKcxED";             
+String apiKey = "**********";             
 #define triggerButton 13  
 #define flashLight 4      
 int count = 0;           
