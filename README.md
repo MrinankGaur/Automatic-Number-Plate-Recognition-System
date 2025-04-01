@@ -1,6 +1,6 @@
 # ESP32-CAM ANPR System
 
-![ANPR System Demo](demo.gif) <!-- Add your demo gif/image later -->
+![ANPR System Demo](demo.png) <!-- Add your demo gif/image later -->
 
 A standalone Automatic Number Plate Recognition system using ESP32-CAM with on-device processing and web interface.
 
